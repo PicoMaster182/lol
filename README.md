@@ -5,10 +5,10 @@ Open source XBOX 360 NAND flasher firmware based on Raspberry Pi Pico
 
 | Pico | Xbox |
 | ------------- | ------------- |
-| GP16  | SPI_MISO  |
-| GP17  | SPI_SS_N |
-| GP18  | SPI_CLK  |
-| GP19  |  SPI_MOSI |
-| GP20  |  SMC_DBG_EN |
-| GP21  | SMC_RST_XDK_N  |
+| GP1  | SPI_MISO  |
+| GP2  | SPI_SS_N |
+| GP3  | SPI_CLK  |
+| GP4  |  SPI_MOSI |
+| GP5  |  SMC_DBG_EN |
+| GP6  | SMC_RST_XDK_N  |
 | GND  |  GND |
